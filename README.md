@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**musowir/musowir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250"/>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="badges" align="center">
+  <a href=""> <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="instagram.com/musowir_u/"> <img src="https://img.shields.io/badge/Instagram-red?style=plastic&logo=instagram&logoColor=white" alt="Youtube Badge"/></a>
+  <a href=""> <img src="https://img.shields.io/badge/Twitter-blue?style=plastic&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+  <a href=""> <img src="https://img.shields.io/badge/Medium-grey?style=plastic&logo=medium&logoColor=white" alt="Medium Badge"/></a>
+  <a href=""> <img src="https://img.shields.io/badge/Gmail-red?style=plastic&logo=gmail&logoColor=white" alt="Mail Badge"/></a>
+</div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=musowir&theme=dark&sideNums=7BEB83)](https://git.io/streak-stats)
