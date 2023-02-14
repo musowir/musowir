@@ -7,11 +7,11 @@
 ---
 
 <div id="badges" align="center">
-  <a href=""> <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="instagram.com/musowir_u/"> <img src="https://img.shields.io/badge/Instagram-red?style=plastic&logo=instagram&logoColor=white" alt="Youtube Badge"/></a>
-  <a href=""> <img src="https://img.shields.io/badge/Twitter-blue?style=plastic&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
-  <a href=""> <img src="https://img.shields.io/badge/Medium-grey?style=plastic&logo=medium&logoColor=white" alt="Medium Badge"/></a>
-  <a href=""> <img src="https://img.shields.io/badge/Gmail-red?style=plastic&logo=gmail&logoColor=white" alt="Mail Badge"/></a>
+  <a href="https://www.linkedin.com/in/musowir-u/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://instagram.com/musowir_u/"> <img src="https://img.shields.io/badge/Instagram-red?style=plastic&logo=instagram&logoColor=white" alt="Youtube Badge"/></a>
+  <a href="https://twitter.com/musowir_u"> <img src="https://img.shields.io/badge/Twitter-blue?style=plastic&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+  <a href="https://medium.com/@musowir_u"> <img src="https://img.shields.io/badge/Medium-grey?style=plastic&logo=medium&logoColor=white" alt="Medium Badge"/></a>
+  <a href="mailto: musowir@duck.com"> <img src="https://img.shields.io/badge/Gmail-red?style=plastic&logo=gmail&logoColor=white" alt="Mail Badge"/></a>
 </div>
 
 ---
