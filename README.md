@@ -1,7 +1,8 @@
 <div align="center"><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400"></div>
  
  
- # Hi there, I'm Abdu Musowir U <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ # Hi there, I'm Abdu Musowir U <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> &nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=musowir&color=blue)
+
 
 👨‍💻 Django developer and data scientist with expertise in deep learning and machine learning.  
 🚀 Skilled in building web applications with Django and integrating machine learning models.  
