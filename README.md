@@ -1,20 +1,18 @@
-<link rel="stylesheet" type="text/css" href="style.css">
-
-<div style="display: flex;">
-  <div style="flex: 1;">
-# Hi there, I'm Abdu Musowir U <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<div align="center"><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400"></div>
+ 
+ 
+ # Hi there, I'm Abdu Musowir U <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 👨‍💻 Django developer and data scientist with expertise in deep learning and machine learning.  
 🚀 Skilled in building web applications with Django and integrating machine learning models.  
 🤝 Experienced in project management and collaboration with technical and non-technical stakeholders.  
 💡 Passionate about exploring new technologies and creative problem-solving.  
-📫 Let's connect on my social media channels below or drop me an email at musowir@duck.com!  
-  </div>
-  <div style="flex: 1;">
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400"/>
-</div>
-  
-  
+📫 Let's connect on my social media channels below or drop me an email at musowir@duck.com! 
+
+
+
+
+
 ## GitHub Stats
 
 ![Musowir's GitHub stats](https://github-readme-stats.vercel.app/api?username=musowir&show_icons=true&bg_color=00000000&&theme=highcontrast)
