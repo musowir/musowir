@@ -7,15 +7,15 @@
 </div>
 
 
-<h1>Abdu Musowir U &nbsp; <img src="https://komarev.com/ghpvc/?username=musowir&style=flat-square&color=blue" alt=""/> </h1>
+<h1>Abdu Musowir U &nbsp; <img src="https://komarev.com/ghpvc/?username=musowir&style=flat&color=blue" alt=""/> </h1>
 <p>reader | overThinker | designer | wanderer | techEnthusiast | socialVolunteer | creativelyBored</p>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/musowir-u/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://instagram.com/musowir_u/"> <img src="https://img.shields.io/badge/Instagram-red?style=plastic&logo=instagram&logoColor=white" alt="Youtube Badge"/></a>
-  <a href="https://twitter.com/musowir_u"> <img src="https://img.shields.io/badge/Twitter-blue?style=plastic&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
-  <a href="https://medium.com/@musowir_u"> <img src="https://img.shields.io/badge/Medium-grey?style=plastic&logo=medium&logoColor=white" alt="Medium Badge"/></a>
-  <a href="mailto: musowir@duck.com"> <img src="https://img.shields.io/badge/Gmail-red?style=plastic&logo=gmail&logoColor=white" alt="Mail Badge"/></a>
+  <a href="https://www.linkedin.com/in/musowir-u/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&color=white&labelColor=blue" alt="LinkedIn Badge"/></a>
+  <a href="https://instagram.com/musowir_u/"> <img src="https://img.shields.io/badge/Instagram-red?style=flat&logo=instagram&logoColor=white&color=white&labelColor=red" alt="Youtube Badge"/></a>
+  <a href="https://twitter.com/musowir_u"> <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white&color=white&labelColor=blue" alt="Twitter Badge"/></a>
+  <a href="https://medium.com/@musowir_u"> <img src="https://img.shields.io/badge/Medium-grey?style=flat&logo=medium&logoColor=white&color=white&labelColor=black" alt="Medium Badge"/></a>
+  <a href="mailto: musowir@duck.com"> <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white&color=white&labelColor=red" alt="Mail Badge"/></a>
 </div>
 
 <hr>
