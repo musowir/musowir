@@ -1,0 +1,12 @@
+.intro-section {
+  display: flex;
+}
+.intro-section h1 {
+  margin-bottom: 0;
+}
+.intro-section p:first-of-type {
+  margin-top: 0;
+}
+.intro-section p:last-of-type {
+  margin-top: 5px;
+}
