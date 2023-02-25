@@ -16,15 +16,15 @@
 
 ## GitHub Stats
 
-![Musowir's GitHub stats](https://github-readme-stats.vercel.app/api?username=musowir&show_icons=true&bg_color=00000000&&theme=highcontrast)
+![Musowir's GitHub stats](https://github-readme-stats.vercel.app/api?username=musowir&show_icons=true&theme=highcontrast)
 
 ## GitHub Streak
 
-![Musowir's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=musowir&theme=highcontrast&background=00000000)
+![Musowir's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=musowir&theme=highcontrast)
 
 ## Top Languages
 
-![Musowir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musowir&layout=compact&theme=transparent&background=00000000)
+![Musowir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musowir&layout=compact)
 
 
 ## Languages and Tools
