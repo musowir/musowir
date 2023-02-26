@@ -6,7 +6,6 @@
 
 👨‍💻 Django developer and data scientist with expertise in deep learning and machine learning.  
 🚀 Skilled in building web applications with Django and integrating machine learning models.  
-🤝 Experienced in project management and collaboration with technical and non-technical stakeholders.  
 💡 Passionate about exploring new technologies and creative problem-solving.  
 📫 Let's connect on my social media channels below or drop me an email at musowir@duck.com! 
 
