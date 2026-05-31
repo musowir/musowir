@@ -51,16 +51,9 @@ I enjoy working close to systems, debugging low-level issues, and building relia
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://anuraghazra.vercel.app/api?username=musowir&show_icons=true&theme=highcontrast" alt="GitHub Stats" width="48%" />
-  <img src="https://anuraghazra.vercel.app/api/top-langs/?username=musowir&layout=compact&theme=highcontrast" alt="Top Languages" width="48%" />
-</div>
+![GitHub Metrics](https://raw.githubusercontent.com/musowir/musowir/main/github-metrics.svg?v=1)
 
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=musowir&theme=highcontrast" alt="GitHub Streak" width="97%" />
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=musowir&theme=highcontrast)
 
 ---
 
